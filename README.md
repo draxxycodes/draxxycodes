@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @PriyabrataDash01
-- 👀 I’m interested in Gaming and programing !!
-- 🌱 I’m currently learning Something New !!
-- 💞️ I’m looking to collaborate With No One !!
-- 📫 How to reach me ...
+# 👋 Hi, I'm Priyabrata Dash  
 
-<!---
-PriyabrataDash01/PriyabrataDash01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **AI/ML | Full-Stack | Blockchain Developer**  
+
+I specialize in building intelligent, scalable, and decentralized solutions. My expertise spans:  
+- **Artificial Intelligence & Machine Learning**  
+- **Full-Stack Development (MERN, Next.js, Django, etc.)**  
+- **Blockchain & Smart Contracts (Solidity, Web3, DeFi, SocialFi)**  
+
+💡 Passionate about innovation, problem-solving, and creating seamless digital experiences.  
+
+📫 **Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/your-profile) • [Twitter](https://twitter.com/DraxxyCrypto) • [GitHub](https://github.com/PriyabrataDash01)  
+
+---
+*"Building the future, one line of code at a time."*  
