@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm < Your Name > 👋</h1>
+<h1 align="center">Hi there! I'm Priyabrata Dash 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Blockchain+Enthusiast+%7C+Tech+Innovator;Building+the+future+one+block+at+a+time" />
