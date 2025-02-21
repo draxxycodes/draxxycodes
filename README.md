@@ -1,7 +1,8 @@
-<h1 align="center">Hi there! I'm Priyabrata Dash 👋</h1>
+```md
+<h1 align="center" style="font-family: 'Orbitron', sans-serif;">Hi there! I'm < Your Name > 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Blockchain+Enthusiast+%7C+Tech+Innovator;Building+the+future+one+block+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Blockchain+Enthusiast+%7C+Tech+Innovator;Building+the+future+one+block+at+a+time" />
 </p>
 
 ---
@@ -43,4 +44,9 @@ More projects 👉 [Portfolio](https://yourportfolio.com)
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=radical&hide_border=true"/>
+</p>
+
 ⭐️ **"Building the future one block at a time!"**
+```
