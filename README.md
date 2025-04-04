@@ -37,9 +37,8 @@ More projects 👉 [Portfolio](https://yourportfolio.com)
 
 ## 📫 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/draxxy_eth)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyabratadash01)
 [![Website](https://img.shields.io/badge/-Website-FF5733?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
