@@ -27,8 +27,8 @@
 
 ## 🌟 Featured Projects
 
-🚀 [**Project Name 1**](https://github.com/yourproject1) - AI-powered Web3 social networking platform.<br>
-🔗 [**Project Name 2**](https://github.com/yourproject2) - Full-stack decentralized application.<br>
+🚀 [**MoonForge**](https://moonforge.space/) - MoonForge is a blockchain-powered SocialFi platform where brands launch subscription-based promotional campaigns using our native MOON token, and users earn rewards by completing engagement tasks like likes, shares, and follows.<br>
+🔗 [**Aerotech Club VSSUT**](https://aerotechvssut.com/) - Official Website of Aerotech Club of VSSUT,Odisha<br>
 🌎 [**Project Name 3**](https://github.com/yourproject3) - Blockchain-based identity verification system.<br>
 
 More projects 👉 [Portfolio](https://yourportfolio.com)
