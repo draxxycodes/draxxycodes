@@ -35,17 +35,17 @@ More projects 👉 [Portfolio](https://yourportfolio.com)
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=draxxycodes&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/draxxycodes)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/draxxycodes)
 [![Website](https://img.shields.io/badge/-Website-FF5733?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=draxxycodes&theme=radical&hide_border=true"/>
-</p>
 
 ⭐️ **"Building the future one block at a time!"**
 ```
