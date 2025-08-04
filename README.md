@@ -31,7 +31,7 @@
 🔗 [**Aerotech Club VSSUT**](https://aerotechvssut.com/) - Official Website of Aerotech Club of VSSUT,Odisha<br>
 
 
-More projects 👉 [Portfolio](https://yourportfolio.com)
+More projects 👉 [Portfolio]()
 
 ---
 
