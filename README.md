@@ -29,7 +29,7 @@
 
 🚀 [**MoonForge**](https://moonforge.space/) - MoonForge is a WEB3 based SocialFi platform where users earn $MOON tokens for completing promotional tasks.<br>
 🔗 [**Aerotech Club VSSUT**](https://aerotechvssut.com/) - Official Website of Aerotech Club of VSSUT,Odisha<br>
-🌎 [**Project Name 3**](https://github.com/yourproject3) - Blockchain-based identity verification system.<br>
+
 
 More projects 👉 [Portfolio](https://yourportfolio.com)
 
